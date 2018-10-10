@@ -1,10 +1,18 @@
 # NodeJS CLI Toy Robot Simulator
 
-## Description
+![Toy Robot Screenshot](https://raw.githubusercontent.com/simmatrix/nodejs-toy-robot-simulator/master/toy-robot-screenshot.png)
 
-This is a NodeJS command-line application. The Node version used to develop this is v10.11.0.
+This is a NodeJS command-line application. The Node version used to develop this is v10.11.0. You may refer to the full problem statement over [here](https://github.com/simmatrix/nodejs-toy-robot-simulator/blob/master/PROBLEM.md)
 
 ## Demo Video Link
+
+Please view the demo video from this [link](https://drive.google.com/file/d/1S64ey8-CSc-flPJMy1KGvDb8JnXAfuiJ/view?usp=sharing)
+
+## Constraint
+
+Assuming that we would only have 5x5 units of "table" for the toy robot to roam about freely, without falling off.
+
+![Table for Toy Robot](https://raw.githubusercontent.com/simmatrix/nodejs-toy-robot-simulator/master/toy-robot-grid.png)
 
 ## Installation
 
