@@ -1,0 +1,24 @@
+{
+  "name": "toy-robot",
+  "version": "1.0.0",
+  "description": "A NodeJS command-line application of a toy robot simulator",
+  "main": "app.js",
+  "bin": {
+    "toy-robot": "src/app.js"
+  },
+  "scripts": {
+    "start": "node ./src/app.js",
+    "test": "mocha ./*/*.test.js",
+    "test-watch": "nodemon --exec \"npm test\""
+  },
+  "author": "Vince Wong",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.18.0",
+    "figlet": "^1.2.0"
+  },
+  "devDependencies": {
+    "expect": "^23.6.0",
+    "mocha": "^5.2.0"
+  }
+}
