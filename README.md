@@ -36,3 +36,5 @@ Assuming that we would only have 5x5 units of "table" for the toy robot to roam 
 ## Test
 
 You may check on the test by running `yarn test`
+
+![Toy Robot Test](https://raw.githubusercontent.com/simmatrix/nodejs-toy-robot-simulator/master/toy-robot-test.png)
