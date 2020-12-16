@@ -1,5 +1,7 @@
 # NodeJS CLI Toy Robot Simulator
 
+### This is an old repo. Please refer to the new refactored [Toy Robot Simulator - Updated 2020](https://github.com/simmatrix/nodejs-toy-robot-simulator-2020)
+
 ![Toy Robot Screenshot](https://raw.githubusercontent.com/simmatrix/nodejs-toy-robot-simulator/master/toy-robot-screenshot.png)
 
 This is a NodeJS command-line application. The Node version used to develop this is v10.11.0. You may refer to the full problem statement over [here](https://github.com/simmatrix/nodejs-toy-robot-simulator/blob/master/PROBLEM.md)
